@@ -19,6 +19,10 @@ markupsafe==2.1.3
 mergedeep==1.3.4
     # via mkdocs
 mkdocs==1.5.3
+    # via
+    #   -r requirements.in
+    #   mkdocs-rtd-dropdown
+mkdocs-rtd-dropdown==1.0.2
     # via -r requirements.in
 packaging==23.1
     # via mkdocs
